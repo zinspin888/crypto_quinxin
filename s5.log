@@ -1,0 +1,9 @@
+  poll -> 'HTTP/1.1 200 OK' len=21271 json=False
+  poll -> 'HTTP/1.1 200 OK' len=21271 json=False
+  poll -> 'HTTP/1.1 200 OK' len=21271 json=False
+  poll -> 'HTTP/1.1 200 OK' len=21271 json=False
+  poll -> 'HTTP/1.1 200 OK' len=21271 json=False
+  poll -> 'HTTP/1.1 200 OK' len=21272 json=False
+  poll -> 'HTTP/1.1 200 OK' len=21272 json=False
+  poll -> 'HTTP/1.1 200 OK' len=21272 json=False
+session.upload_progress: not proven (no progress JSON seen)

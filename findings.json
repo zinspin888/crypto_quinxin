@@ -1,0 +1,1115 @@
+[
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/.env",
+    "label": "dotenv",
+    "weight": 6,
+    "detail": ".env leaked (<html lang, \t\t<meta http-equiv, \t\t<meta charset,     <link rel,     <meta name,     <link href)"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/phpinfo.php",
+    "label": "phpinfo",
+    "weight": 6,
+    "detail": "phpinfo exposed (Loaded Configuration File, DOCUMENT_ROOT, disable_functions, open_basedir)"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/db.sql",
+    "label": "db-dump",
+    "weight": 5,
+    "detail": "103011 bytes returned"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/db.sql",
+    "label": "db-dump",
+    "weight": 5,
+    "detail": "5606 bytes returned"
+  },
+  {
+    "host": "asdp.kilimo.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "kenet.or.ke",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "lawyers.gov.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "miradi.uwezeshaji.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "sumajkt.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "tanipac.kilimo.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "uonbi.ac.ke",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "uwekezaji.iringa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 500"
+  },
+  {
+    "host": "www.arimo.ac.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.brela.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.chaliwasa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.chawassa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.ethicssecretariat.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.fiti.ac.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.foreign.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.geuwasa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.gpsa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.hlpc.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.inec.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.maji.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.masasi.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.moh.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.mwauwasa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.mwtc.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.nbts.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.ncaa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "path": "/backup.zip",
+    "label": "backup-zip",
+    "weight": 4,
+    "detail": "85920 bytes returned"
+  },
+  {
+    "host": "www.nfqclab.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.nhbra.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/backup.zip",
+    "label": "backup-zip",
+    "weight": 4,
+    "detail": "103011 bytes returned"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/adminer.php",
+    "label": "adminer",
+    "weight": 4,
+    "detail": "HTTP 200, 103011 bytes"
+  },
+  {
+    "host": "www.nlupc.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/backup.zip",
+    "label": "backup-zip",
+    "weight": 4,
+    "detail": "5606 bytes returned"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/adminer.php",
+    "label": "adminer",
+    "weight": 4,
+    "detail": "HTTP 200, 5606 bytes"
+  },
+  {
+    "host": "www.nyaraka.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.orci.or.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/adminer.php",
+    "label": "adminer",
+    "weight": 4,
+    "detail": "HTTP 200, 11928 bytes"
+  },
+  {
+    "host": "www.pc.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.pmo.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.psrb.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.ptf.or.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.sbt.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.taa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tacaids.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tagla.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tasaf.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tawa.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tcra-ccc.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.teiti.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tprb.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.trc.co.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.ushirika.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.viwanda.go.tz",
+    "path": "/server-status",
+    "label": "server-status",
+    "weight": 4,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "asdp.kilimo.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 148 bytes"
+  },
+  {
+    "host": "asdp.kilimo.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "kenet.or.ke",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "lawyers.gov.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "miradi.uwezeshaji.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "sumajkt.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "tanipac.kilimo.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "uonbi.ac.ke",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "uwekezaji.iringa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.arimo.ac.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.brela.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.chaliwasa.go.tz",
+    "path": "/administrator/",
+    "label": "joomla-admin",
+    "weight": 3,
+    "detail": "HTTP 200, 6350 bytes"
+  },
+  {
+    "host": "www.chaliwasa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.chawassa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.ethicssecretariat.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.foreign.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.geuwasa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.gpsa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.hlpc.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.inec.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.lita.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.maji.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.masasi.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 301, 237 bytes"
+  },
+  {
+    "host": "www.masasi.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.moh.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.morogorotc.ac.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.mwauwasa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.mwtc.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.nbts.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.ncaa.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 33511 bytes"
+  },
+  {
+    "host": "www.ncaa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 85920 bytes"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "path": "/administrator/",
+    "label": "joomla-admin",
+    "weight": 3,
+    "detail": "HTTP 200, 85920 bytes"
+  },
+  {
+    "host": "www.nfqclab.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 103011 bytes"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/administrator/",
+    "label": "joomla-admin",
+    "weight": 3,
+    "detail": "HTTP 200, 103011 bytes"
+  },
+  {
+    "host": "www.nlupc.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 5606 bytes"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/administrator/",
+    "label": "joomla-admin",
+    "weight": 3,
+    "detail": "HTTP 200, 5606 bytes"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.nyaraka.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.orci.or.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 76078 bytes"
+  },
+  {
+    "host": "www.orci.or.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 11895 bytes"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/administrator/",
+    "label": "joomla-admin",
+    "weight": 3,
+    "detail": "HTTP 200, 11864 bytes"
+  },
+  {
+    "host": "www.pc.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 4960 bytes"
+  },
+  {
+    "host": "www.pc.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.psrb.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.ptf.or.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 2392 bytes"
+  },
+  {
+    "host": "www.ptf.or.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.sbt.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 8035 bytes"
+  },
+  {
+    "host": "www.sbt.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.taa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tacaids.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.tagla.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.tasaf.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.tawa.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tcra-ccc.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.teiti.go.tz",
+    "path": "/administrator/",
+    "label": "joomla-admin",
+    "weight": 3,
+    "detail": "HTTP 200, 8812 bytes"
+  },
+  {
+    "host": "www.teiti.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 404"
+  },
+  {
+    "host": "www.tprb.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.trc.co.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.ushirika.go.tz",
+    "path": "/admin/",
+    "label": "admin-panel",
+    "weight": 3,
+    "detail": "HTTP 200, 148 bytes"
+  },
+  {
+    "host": "www.ushirika.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "www.viwanda.go.tz",
+    "path": "/.htpasswd",
+    "label": "htpasswd",
+    "weight": 3,
+    "detail": "HTTP 403"
+  },
+  {
+    "host": "erp.taa.go.tz",
+    "path": "/",
+    "label": "subdomain",
+    "weight": 2,
+    "detail": "live, HTTP 200, 9961 bytes"
+  },
+  {
+    "host": "kenet.or.ke",
+    "path": "/user/login",
+    "label": "drupal-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "kenet.or.ke",
+    "path": "/install.php",
+    "label": "installer",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "mis.maji.go.tz",
+    "path": "/",
+    "label": "subdomain",
+    "weight": 2,
+    "detail": "live, HTTP 200, 9444 bytes"
+  },
+  {
+    "host": "mis.tasaf.go.tz",
+    "path": "/",
+    "label": "subdomain",
+    "weight": 2,
+    "detail": "live, HTTP 200, 637 bytes"
+  },
+  {
+    "host": "portal.taa.go.tz",
+    "path": "/",
+    "label": "subdomain",
+    "weight": 2,
+    "detail": "live, HTTP 404, 146 bytes"
+  },
+  {
+    "host": "portal.trc.co.tz",
+    "path": "/",
+    "label": "subdomain",
+    "weight": 2,
+    "detail": "live, HTTP 200, 14150 bytes"
+  },
+  {
+    "host": "portal.uonbi.ac.ke",
+    "path": "/",
+    "label": "subdomain",
+    "weight": 2,
+    "detail": "live, HTTP 403, 151 bytes"
+  },
+  {
+    "host": "uonbi.ac.ke",
+    "path": "/phpmyadmin/",
+    "label": "phpmyadmin",
+    "weight": 2,
+    "detail": "HTTP 200, 18524 bytes"
+  },
+  {
+    "host": "uonbi.ac.ke",
+    "path": "/user/login",
+    "label": "drupal-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "uonbi.ac.ke",
+    "path": "/install.php",
+    "label": "installer",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.morogorotc.ac.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.ncaa.go.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "path": "/phpmyadmin/",
+    "label": "phpmyadmin",
+    "weight": 2,
+    "detail": "HTTP 200, 85920 bytes"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "path": "/user/login",
+    "label": "drupal-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "path": "/install.php",
+    "label": "installer",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/phpmyadmin/",
+    "label": "phpmyadmin",
+    "weight": 2,
+    "detail": "HTTP 200, 103011 bytes"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/user/login",
+    "label": "drupal-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/install.php",
+    "label": "installer",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/user/login",
+    "label": "drupal-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/install.php",
+    "label": "installer",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/phpmyadmin/",
+    "label": "phpmyadmin",
+    "weight": 2,
+    "detail": "HTTP 200, 11929 bytes"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/user/login",
+    "label": "drupal-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/install.php",
+    "label": "installer",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.ptf.or.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.sbt.go.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "www.tagla.go.tz",
+    "path": "/wp-login.php",
+    "label": "wp-login",
+    "weight": 2,
+    "detail": "HTTP 200"
+  },
+  {
+    "host": "kenet.or.ke",
+    "path": "/xmlrpc.php",
+    "label": "xmlrpc",
+    "weight": 1,
+    "detail": "xmlrpc live"
+  },
+  {
+    "host": "uonbi.ac.ke",
+    "path": "/xmlrpc.php",
+    "label": "xmlrpc",
+    "weight": 1,
+    "detail": "xmlrpc live"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "path": "/xmlrpc.php",
+    "label": "xmlrpc",
+    "weight": 1,
+    "detail": "xmlrpc live"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "path": "/xmlrpc.php",
+    "label": "xmlrpc",
+    "weight": 1,
+    "detail": "xmlrpc live"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "path": "/xmlrpc.php",
+    "label": "xmlrpc",
+    "weight": 1,
+    "detail": "xmlrpc live"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/xmlrpc.php",
+    "label": "xmlrpc",
+    "weight": 1,
+    "detail": "xmlrpc live"
+  }
+]

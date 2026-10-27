@@ -1,0 +1,252 @@
+host,verdict,php_version,status,server,ip,city,isp,evidence
+asdp.kilimo.go.tz,VULNERABLE,5.6.40,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/5.6.40; version disclosed: 5.6.40
+lawyers.gov.go.tz,VULNERABLE,5.6.40,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/5.6.40; version disclosed: 5.6.40
+miradi.uwezeshaji.go.tz,VULNERABLE,7.2.34,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+sumajkt.go.tz,VULNERABLE,8.0.30,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/8.0.30; version disclosed: 8.0.30
+tanipac.kilimo.go.tz,VULNERABLE,7.2.34,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+uwekezaji.iringa.go.tz,VULNERABLE,7.4.33,500,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.4.33; version disclosed: 7.4.33
+www.arimo.ac.tz,VULNERABLE,5.6.40,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/5.6.40; version disclosed: 5.6.40
+www.brela.go.tz,VULNERABLE,7.2.34,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.camartec.go.tz,VULNERABLE,7.2.34,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.chaliwasa.go.tz,VULNERABLE,5.6.40,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/5.6.40; version disclosed: 5.6.40
+www.chawassa.go.tz,VULNERABLE,7.2.34,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; PHPSESSID cookie; version disclosed: 7.2.34
+www.ethicssecretariat.go.tz,VULNERABLE,8.0.30,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/8.0.30; version disclosed: 8.0.30
+www.fiti.ac.tz,VULNERABLE,7.3.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.foreign.go.tz,VULNERABLE,7.3.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.geuwasa.go.tz,VULNERABLE,7.4.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.4.33; version disclosed: 7.4.33
+www.gpsa.go.tz,VULNERABLE,7.2.34,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.hlpc.go.tz,VULNERABLE,7.0.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.0.33; version disclosed: 7.0.33
+www.inec.go.tz,VULNERABLE,8.0.30,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/8.0.30; version disclosed: 8.0.30
+www.lita.go.tz,VULNERABLE,7.3.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.maji.go.tz,VULNERABLE,7.2.34,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.masasi.go.tz,VULNERABLE,7.0.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.0.33; version disclosed: 7.0.33
+www.mkurabita.go.tz,VULNERABLE,7.4.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.4.33; version disclosed: 7.4.33
+www.moh.go.tz,VULNERABLE,7.3.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.morogorotc.ac.tz,VULNERABLE,7.4.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.4.33; version disclosed: 7.4.33
+www.mwauwasa.go.tz,VULNERABLE,7.4.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.4.33; version disclosed: 7.4.33
+www.mwtc.go.tz,VULNERABLE,8.0.30,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/8.0.30; version disclosed: 8.0.30
+www.nbts.go.tz,VULNERABLE,7.2.34,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.ncaa.go.tz,VULNERABLE,8.1.34,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/8.1.34; version disclosed: 8.1.34
+www.nec.go.tz,VULNERABLE,8.0.30,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/8.0.30; version disclosed: 8.0.30
+www.nfqclab.go.tz,VULNERABLE,5.6.40,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/5.6.40; version disclosed: 5.6.40
+www.nhbra.go.tz,VULNERABLE,7.3.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.nje.go.tz,VULNERABLE,7.3.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.nlupc.go.tz,VULNERABLE,7.3.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.ntdcp.go.tz,VULNERABLE,5.6.40,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/5.6.40; version disclosed: 5.6.40
+www.nyaraka.go.tz,VULNERABLE,7.4.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.4.33; version disclosed: 7.4.33
+www.orci.or.tz,VULNERABLE,7.4.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.4.33; PHPSESSID cookie; version disclosed: 7.4.33
+www.pasiansiwildlife.ac.tz,VULNERABLE,8.0.30,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/phpinfo.php -> 8.0.30
+www.pc.go.tz,VULNERABLE,5.6.40,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/5.6.40; PHPSESSID cookie; version disclosed: 5.6.40
+www.pmo.go.tz,VULNERABLE,7.3.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.psrb.go.tz,VULNERABLE,5.6.40,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/5.6.40; version disclosed: 5.6.40
+www.ptf.or.tz,VULNERABLE,7.4.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.4.33; version disclosed: 7.4.33
+www.sbt.go.tz,VULNERABLE,8.0.30,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/8.0.30; PHPSESSID cookie; version disclosed: 8.0.30
+www.sumajkt.go.tz,VULNERABLE,8.0.30,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/8.0.30; version disclosed: 8.0.30
+www.taa.go.tz,VULNERABLE,8.1.34,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/8.1.34; version disclosed: 8.1.34
+www.tacaids.go.tz,VULNERABLE,7.2.34,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.tagla.go.tz,VULNERABLE,7.0.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.0.33; version disclosed: 7.0.33
+www.tasaf.go.tz,VULNERABLE,8.1.34,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/8.1.34; version disclosed: 8.1.34
+www.tawa.go.tz,VULNERABLE,7.2.34,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.tcra-ccc.go.tz,VULNERABLE,7.2.34,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.teiti.go.tz,VULNERABLE,7.2.34,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.2.34; version disclosed: 7.2.34
+www.tprb.go.tz,VULNERABLE,7.3.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.trc.co.tz,VULNERABLE,7.3.33,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.ushirika.go.tz,VULNERABLE,7.3.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+www.viwanda.go.tz,VULNERABLE,7.3.33,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/7.3.33; version disclosed: 7.3.33
+alf.uongozi.go.tz,NOT-PHP,,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,
+blog.ikulu.go.tz,NOT-PHP,,,,,,,
+blog.maelezo.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+blog.maliasili.go.tz,PHP-UNKNOWN-VERSION,,200,nginx/1.18.0 (Ubuntu),41.59.90.210,Dar es Salaam,TTCL,/wp-login.php present (HTTP 200)
+blog.nec.go.tz,NOT-PHP,,,,,,,
+blog.tamisemi.go.tz,NOT-PHP,,,,,,,
+gip.gov.go.tz,NOT-PHP,,,,,,,
+jamafest.michezo.go.tz,NOT-PHP,,,,,,,
+jlmes.nit.ac.tz,PHP-UNKNOWN-VERSION,,200,nginx/1.18.0 (Ubuntu),41.93.71.17,Dar es Salaam,Tanzania Education And Research Network,/index.php served (PHP handler present)
+localcontent.uwezeshaji.go.tz,NOT-PHP,,,,,,,
+mis.ntdcp.go.tz,NOT-PHP,,,,,,,
+mobileapp.nec.go.tz,NOT-PHP,,,,,,,
+nordic.tanzania.go.tz,NOT-PHP,,,,154.118.230.171,Dodoma,Tanzania e-Government Agency,
+opms.gpsa.go.tz,NOT-PHP,,,,,,,
+register.papu40anniversary.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+register.sadctanzania.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+tomsha.tacaids.go.tz,PHP-UNKNOWN-VERSION,,200,Apache/2.4.41 (Ubuntu),196.192.77.90,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.adem.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.agctz.go.tz,NOT-PHP,,,,,,,
+www.agitf.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.ajira.go.tz,PHP-UNKNOWN-VERSION,,200,,197.149.179.228,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 200)
+www.alumni.nit.ac.tz,NOT-PHP,,,,,,,
+www.aqrb.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.arita.ac.tz,NOT-PHP,,,,,,,
+www.asa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.asali.tfs.go.tz,NOT-PHP,,,,,,,
+www.atf.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.auwsa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.bakita.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.bammata.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.basata.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.bawasa.go.tz,NOT-PHP,,403,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,
+www.bmh.or.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.bunge.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.cda.go.tz,NOT-PHP,,,,,,,
+www.cfr.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.chatozrh.go.tz,NOT-PHP,,,,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,
+www.chragg.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.cma.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.cpaafricaregion.or.tz,PATCHED,8.2.35,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/phpinfo.php -> 8.2.35
+www.cpb.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.cscduluti.mil.tz,NOT-PHP,,,,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,
+www.dart.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.dawasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.dcea.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.ddca.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.dib.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,102.223.8.61,Dar es Salaam,e-Government Authority,/wp-includes/version.php present (HTTP 200)
+www.dmi.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.dsfa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.duwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.epza.go.tz,NOT-PHP,,,,,,,
+www.eteta.ac.tz,NOT-PHP,,,,,,,
+www.ewuraccc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,WordPress asset paths in body
+www.fertilizer.co.tz,NOT-PHP,,,,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,
+www.feta.ac.tz,PATCHED,8.3.36,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,header x-powered-by: PHP/8.3.36; version disclosed: 8.3.36
+www.filmboard.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.fiu.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.frf.go.tz,NOT-PHP,,,,,,,
+www.gasco.co.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.glite.go.tz,NOT-PHP,,,,,,,
+www.gst.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.heslb.go.tz,NOT-PHP,,,,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,
+www.ictc.go.tz,PHP-UNKNOWN-VERSION,,200,openresty,41.59.225.216,Dar es Salaam,Tanzania Telecommunications CO. LTD,/index.php served (PHP handler present)
+www.idbwb.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.ija.ac.tz,NOT-PHP,,,,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,
+www.iruwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.isw.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.jamii.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.jkci.or.tz,NOT-PHP,,200,Apache/2.4.52 (Ubuntu),196.192.77.105,Dar es Salaam,Tanzania e-Government Agency,
+www.judiciary.go.tz,PHP-UNKNOWN-VERSION,,200,nginx,196.192.77.14,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 200)
+www.kariakoomarket.co.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.kashwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.kazi.go.tz,NOT-PHP,,,,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,
+www.kec.or.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.kilimanjaroairport.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.kilimo.go.tz,NOT-PHP,,,,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,
+www.kuwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.lgti.ac.tz,NOT-PHP,,200,nginx,41.59.229.13,Dar es Salaam,Tanzania Telecommunications CO. LTD,
+www.lvbwb.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.maadili.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.makuwasa.go.tz,NOT-PHP,,,,,,,
+www.maliasili.go.tz,PHP-UNKNOWN-VERSION,,200,nginx/1.18.0 (Ubuntu),41.59.90.210,Dar es Salaam,TTCL,/wp-login.php present (HTTP 200)
+www.manawasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.marineparks.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.mawasiliano.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.mbeyauwsa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.meteo.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.metfund.go.tz,PATCHED,8.2.35,200,Apache,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/8.2.35; version disclosed: 8.2.35
+www.michezo.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.mifugouvuvi.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.mit.go.tz,NOT-PHP,,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,
+www.mkulazi.co.tz,NOT-PHP,,200,nginx,41.59.103.182,Dar es Salaam,TTCL,
+www.mnma.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.mnrt.go.tz,NOT-PHP,,,,,,,
+www.modans.go.tz,NOT-PHP,,,,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,
+www.moe.go.tz,PHP-UNKNOWN-VERSION,,200,nginx,197.149.179.215,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 200)
+www.moha.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 200)
+www.moi.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache/2.4.67 (Debian),197.149.179.198,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.moruwasa.go.tz,NOT-PHP,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,
+www.mow.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.mri.ac.tz,NOT-PHP,,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,
+www.mtuwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.muwsa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.mwekawildlife.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,WordPress asset paths in body
+www.mwt.go.tz,NOT-PHP,,,,,,,
+www.natcom.go.tz,NOT-PHP,,,,,,,
+www.nationalsportscouncil.go.tz,NOT-PHP,,,,,,,
+www.nbaa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.nbs.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.ncc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.ndctz.go.tz,NOT-PHP,,,,,,,
+www.nemc.or.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.nfra.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.nhc.co.tz,PHP-UNKNOWN-VERSION,,200,nginx/1.30.5,197.149.179.156,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 200)
+www.nhif.or.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.nictanzania.co.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.nimr.or.tz,PHP-UNKNOWN-VERSION,,200,Apache,41.59.225.156,Dar es Salaam,Tanzania Telecommunications CO. LTD,/wp-login.php present (HTTP 200)
+www.nirc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.nit.ac.tz,NOT-PHP,,200,nginx,41.93.71.6,Dar es Salaam,Tanzania Education And Research Network,
+www.nmt.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.nmtc.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.nps.go.tz,NOT-PHP,,,,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,
+www.nssf.or.tz,NOT-PHP,,,,,,,
+www.nwf.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.orpp.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.osg.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.osha.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.panganibasin.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.papu40anniversary.go.tz,NOT-PHP,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,
+www.parliament.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.pbpa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.pppnode.go.tz,NOT-PHP,,,,,,,
+www.ppra.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.179.225,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.psc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.psptb.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.pura.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,WordPress asset paths in body
+www.roadsfund.go.tz,NOT-PHP,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,
+www.rufijibasin.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.rukwabasin.go.tz,NOT-PHP,,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,
+www.ruwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,PHPSESSID cookie
+www.sadctanzania.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 302)
+www.sheria.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.shuwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 200)
+www.stamico.co.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.suwasa.or.tz,NOT-PHP,,,,154.118.231.236,Dodoma,Tanzania e-Government Agency,
+www.tamisemi.go.tz,PHP-UNKNOWN-VERSION,,200,nginx,102.219.172.39,Dodoma,The Office of the Minister of State in the President's Office,/wp-login.php present (HTTP 200)
+www.tangauwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tanroads.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tantrade.go.tz,PHP-UNKNOWN-VERSION,,200,Apache/2.4.41 (Ubuntu),196.192.77.103,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tanzaniaparks.go.tz,NOT-PHP,,200,nginx/1.30.2,197.149.179.154,Dar es Salaam,Tanzania e-Government Agency,
+www.tari.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tarura.go.tz,PHP-UNKNOWN-VERSION,,301,nginx,196.192.77.39,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 301)
+www.tasac.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tasuba.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tba.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tbs.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tcaa-ccc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tcaa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tcb.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tdb.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.temdo.or.tz,NOT-PHP,,,,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,
+www.temesa.go.tz,NOT-PHP,,,,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,
+www.tfnc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,WordPress asset paths in body
+www.tfra.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tfs.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tgdc.co.tz,NOT-PHP,,,,,,,
+www.tgdc.go.tz,PHP-UNKNOWN-VERSION,,200,,197.149.179.169,Dar es Salaam,Tanzania e-Government Agency,/adminer.php present (HTTP 200)
+www.tic.go.tz,NOT-PHP,,,,102.223.8.75,Dar es Salaam,e-Government Authority,
+www.tie.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tio.go.tz,NOT-PHP,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,
+www.tirdo.or.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tmb.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tmda.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tmx.co.tz,PHP-UNKNOWN-VERSION,,200,Apache,154.118.230.167,Dodoma,Tanzania e-Government Agency,/wp-login.php present (HTTP 404)
+www.tnbc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tnmc.go.tz,PHP-UNKNOWN-VERSION,,200,,197.149.179.209,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 200)
+www.tobaccoboard.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.torita.or.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tosci.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tpdf.mil.tz,NOT-PHP,,,,196.192.79.159,Dar es Salaam,Tanzania e-Government Agency,
+www.tphpa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tpsc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.trita.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/wp-login.php present (HTTP 200)
+www.tro.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tsc.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.ttsa.go.tz,NOT-PHP,,,,,,,
+www.tumemadini.go.tz,NOT-PHP,,200,nginx/1.26.3,102.223.8.107,Dar es Salaam,e-Government Authority,
+www.tuwasa.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.tvla.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.ucsaf.go.tz,NOT-PHP,,,,197.149.178.5,Dar es Salaam,Tanzania e-Government Agency,
+www.uongozi.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,41.59.85.30,Dar es Salaam,TTCL,/wp-includes/version.php present (HTTP 404)
+www.uwezeshaji.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.veta.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,196.192.79.246,Dar es Salaam,Tanzania e-Government Agency,/wp-includes/version.php present (HTTP 200)
+www.vpo.go.tz,PATCHED,8.4.27,200,Apache,196.192.79.254,Dar es Salaam,Tanzania e-Government Agency,header x-powered-by: PHP/8.4.27; version disclosed: 8.4.27
+www.waterinstitute.ac.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.wcf.go.tz,PHP-UNKNOWN-VERSION,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,/index.php served (PHP handler present)
+www.wma.go.tz,NOT-PHP,,200,Apache,197.149.178.6,Dar es Salaam,Tanzania e-Government Agency,

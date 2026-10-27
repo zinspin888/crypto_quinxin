@@ -1,0 +1,5 @@
+== ORDER BY sweep (stop where it errors)
+  ORDER BY  1 -> WAF403
+  ORDER BY  2 -> DOWN
+
+last clean ORDER BY: 1

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\Oira\Desktop\php\sess_check.py", line 79, in <module>
+    print(f"  poll -> {status!r} len={len(body)} json={'bytes_processed' in body}")
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: a bytes-like object is required, not 'str'

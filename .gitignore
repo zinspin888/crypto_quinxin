@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+php2shell/.git/
+*.tmp
+
+# local noise from runs (kept logs are the ones cited in the report)
+tp.err
+u2.err
+wp*.err

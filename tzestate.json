@@ -1,0 +1,4209 @@
+[
+  {
+    "host": "asdp.kilimo.go.tz",
+    "php_seen": true,
+    "version": "5.6.40",
+    "evidence": [
+      "header x-powered-by: PHP/5.6.40",
+      "version disclosed: 5.6.40"
+    ],
+    "final_url": "https://asdp.kilimo.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "lawyers.gov.go.tz",
+    "php_seen": true,
+    "version": "5.6.40",
+    "evidence": [
+      "header x-powered-by: PHP/5.6.40",
+      "version disclosed: 5.6.40"
+    ],
+    "final_url": "https://lawyers.gov.go.tz/index.php/user/auth/login",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "miradi.uwezeshaji.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://miradi.uwezeshaji.go.tz/sw",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "sumajkt.go.tz",
+    "php_seen": true,
+    "version": "8.0.30",
+    "evidence": [
+      "header x-powered-by: PHP/8.0.30",
+      "version disclosed: 8.0.30"
+    ],
+    "final_url": "https://sumajkt.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "tanipac.kilimo.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://tanipac.kilimo.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "uwekezaji.iringa.go.tz",
+    "php_seen": true,
+    "version": "7.4.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.4.33",
+      "version disclosed: 7.4.33"
+    ],
+    "final_url": "https://uwekezaji.iringa.go.tz/",
+    "status": 500,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.arimo.ac.tz",
+    "php_seen": true,
+    "version": "5.6.40",
+    "evidence": [
+      "header x-powered-by: PHP/5.6.40",
+      "version disclosed: 5.6.40"
+    ],
+    "final_url": "https://www.arimo.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.brela.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.brela.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.camartec.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.camartec.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.chaliwasa.go.tz",
+    "php_seen": true,
+    "version": "5.6.40",
+    "evidence": [
+      "header x-powered-by: PHP/5.6.40",
+      "version disclosed: 5.6.40"
+    ],
+    "final_url": "https://www.chaliwasa.go.tz/index.php/en/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.chawassa.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "PHPSESSID cookie",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.chawassa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ethicssecretariat.go.tz",
+    "php_seen": true,
+    "version": "8.0.30",
+    "evidence": [
+      "header x-powered-by: PHP/8.0.30",
+      "version disclosed: 8.0.30"
+    ],
+    "final_url": "https://www.ethicssecretariat.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.fiti.ac.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.fiti.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.foreign.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.foreign.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.geuwasa.go.tz",
+    "php_seen": true,
+    "version": "7.4.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.4.33",
+      "version disclosed: 7.4.33"
+    ],
+    "final_url": "https://www.geuwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.gpsa.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.gpsa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.hlpc.go.tz",
+    "php_seen": true,
+    "version": "7.0.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.0.33",
+      "version disclosed: 7.0.33"
+    ],
+    "final_url": "https://www.hlpc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.inec.go.tz",
+    "php_seen": true,
+    "version": "8.0.30",
+    "evidence": [
+      "header x-powered-by: PHP/8.0.30",
+      "version disclosed: 8.0.30"
+    ],
+    "final_url": "https://www.inec.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.lita.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.lita.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.maji.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.maji.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.masasi.go.tz",
+    "php_seen": true,
+    "version": "7.0.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.0.33",
+      "version disclosed: 7.0.33"
+    ],
+    "final_url": "https://www.masasi.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mkurabita.go.tz",
+    "php_seen": true,
+    "version": "7.4.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.4.33",
+      "version disclosed: 7.4.33"
+    ],
+    "final_url": "https://www.mkurabita.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.moh.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.moh.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.morogorotc.ac.tz",
+    "php_seen": true,
+    "version": "7.4.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.4.33",
+      "version disclosed: 7.4.33"
+    ],
+    "final_url": "https://www.morogorotc.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mwauwasa.go.tz",
+    "php_seen": true,
+    "version": "7.4.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.4.33",
+      "version disclosed: 7.4.33"
+    ],
+    "final_url": "https://www.mwauwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mwtc.go.tz",
+    "php_seen": true,
+    "version": "8.0.30",
+    "evidence": [
+      "header x-powered-by: PHP/8.0.30",
+      "version disclosed: 8.0.30"
+    ],
+    "final_url": "https://www.mwtc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nbts.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.nbts.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ncaa.go.tz",
+    "php_seen": true,
+    "version": "8.1.34",
+    "evidence": [
+      "header x-powered-by: PHP/8.1.34",
+      "version disclosed: 8.1.34"
+    ],
+    "final_url": "https://www.ncaa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nec.go.tz",
+    "php_seen": true,
+    "version": "8.0.30",
+    "evidence": [
+      "header x-powered-by: PHP/8.0.30",
+      "version disclosed: 8.0.30"
+    ],
+    "final_url": "https://www.inec.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nfqclab.go.tz",
+    "php_seen": true,
+    "version": "5.6.40",
+    "evidence": [
+      "header x-powered-by: PHP/5.6.40",
+      "version disclosed: 5.6.40"
+    ],
+    "final_url": "https://www.nfqclab.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nhbra.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.nhbra.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nje.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.foreign.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nlupc.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.nlupc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ntdcp.go.tz",
+    "php_seen": true,
+    "version": "5.6.40",
+    "evidence": [
+      "header x-powered-by: PHP/5.6.40",
+      "version disclosed: 5.6.40"
+    ],
+    "final_url": "https://www.ntdcp.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nyaraka.go.tz",
+    "php_seen": true,
+    "version": "7.4.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.4.33",
+      "version disclosed: 7.4.33"
+    ],
+    "final_url": "https://www.nyaraka.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.orci.or.tz",
+    "php_seen": true,
+    "version": "7.4.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.4.33",
+      "PHPSESSID cookie",
+      "version disclosed: 7.4.33"
+    ],
+    "final_url": "https://www.orci.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "php_seen": true,
+    "version": "8.0.30",
+    "evidence": [
+      "/phpinfo.php -> 8.0.30"
+    ],
+    "final_url": "https://www.pasiansiwildlife.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.pc.go.tz",
+    "php_seen": true,
+    "version": "5.6.40",
+    "evidence": [
+      "header x-powered-by: PHP/5.6.40",
+      "PHPSESSID cookie",
+      "version disclosed: 5.6.40"
+    ],
+    "final_url": "https://www.pc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.pmo.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.pmo.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.psrb.go.tz",
+    "php_seen": true,
+    "version": "5.6.40",
+    "evidence": [
+      "header x-powered-by: PHP/5.6.40",
+      "version disclosed: 5.6.40"
+    ],
+    "final_url": "https://www.psrb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ptf.or.tz",
+    "php_seen": true,
+    "version": "7.4.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.4.33",
+      "version disclosed: 7.4.33"
+    ],
+    "final_url": "https://www.ptf.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.sbt.go.tz",
+    "php_seen": true,
+    "version": "8.0.30",
+    "evidence": [
+      "header x-powered-by: PHP/8.0.30",
+      "PHPSESSID cookie",
+      "version disclosed: 8.0.30"
+    ],
+    "final_url": "https://www.sbt.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.sumajkt.go.tz",
+    "php_seen": true,
+    "version": "8.0.30",
+    "evidence": [
+      "header x-powered-by: PHP/8.0.30",
+      "version disclosed: 8.0.30"
+    ],
+    "final_url": "https://sumajkt.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.taa.go.tz",
+    "php_seen": true,
+    "version": "8.1.34",
+    "evidence": [
+      "header x-powered-by: PHP/8.1.34",
+      "version disclosed: 8.1.34"
+    ],
+    "final_url": "https://www.taa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tacaids.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.tacaids.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tagla.go.tz",
+    "php_seen": true,
+    "version": "7.0.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.0.33",
+      "version disclosed: 7.0.33"
+    ],
+    "final_url": "https://www.tagla.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tasaf.go.tz",
+    "php_seen": true,
+    "version": "8.1.34",
+    "evidence": [
+      "header x-powered-by: PHP/8.1.34",
+      "version disclosed: 8.1.34"
+    ],
+    "final_url": "https://www.tasaf.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tawa.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.tawa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tcra-ccc.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.tcra-ccc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.teiti.go.tz",
+    "php_seen": true,
+    "version": "7.2.34",
+    "evidence": [
+      "header x-powered-by: PHP/7.2.34",
+      "version disclosed: 7.2.34"
+    ],
+    "final_url": "https://www.teiti.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tprb.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.tprb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.trc.co.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.trc.co.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ushirika.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.ushirika.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.viwanda.go.tz",
+    "php_seen": true,
+    "version": "7.3.33",
+    "evidence": [
+      "header x-powered-by: PHP/7.3.33",
+      "version disclosed: 7.3.33"
+    ],
+    "final_url": "https://www.viwanda.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "VULNERABLE",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "alf.uongozi.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://alf.uongozi.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "blog.ikulu.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "blog.maelezo.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://blog.maelezo.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "blog.maliasili.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://blog.maliasili.go.tz/",
+    "status": 200,
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "41.59.90.210",
+    "city": "Dar es Salaam",
+    "isp": "TTCL",
+    "country": "TZ"
+  },
+  {
+    "host": "blog.nec.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "blog.tamisemi.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "gip.gov.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "jamafest.michezo.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "jlmes.nit.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://jlmes.nit.ac.tz/",
+    "status": 200,
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "41.93.71.17",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania Education And Research Network",
+    "country": "TZ"
+  },
+  {
+    "host": "localcontent.uwezeshaji.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "mis.ntdcp.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "mobileapp.nec.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "nordic.tanzania.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "154.118.230.171",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "opms.gpsa.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "register.papu40anniversary.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://register.papu40anniversary.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "register.sadctanzania.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://register.sadctanzania.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "tomsha.tacaids.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://tomsha.tacaids.go.tz/login",
+    "status": 200,
+    "server": "Apache/2.4.41 (Ubuntu)",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.77.90",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.adem.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.adem.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.agctz.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.agitf.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.agitf.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ajira.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.ajira.go.tz/",
+    "status": 200,
+    "server": null,
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.179.228",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.alumni.nit.ac.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.aqrb.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.aqrb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.arita.ac.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.asa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.asa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.asali.tfs.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.atf.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.atf.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.auwsa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.auwsa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.bakita.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.bakita.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.bammata.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.bammata.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.basata.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.basata.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.bawasa.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.bawasa.go.tz/",
+    "status": 403,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.bmh.or.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.bmh.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.bunge.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.parliament.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.cda.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.cfr.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.cfr.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.chatozrh.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.chragg.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.chragg.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.cma.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.cma.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.cpaafricaregion.or.tz",
+    "php_seen": true,
+    "version": "8.2.35",
+    "evidence": [
+      "/phpinfo.php -> 8.2.35"
+    ],
+    "final_url": "https://www.cpaafricaregion.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PATCHED",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.cpb.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.cpb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.cscduluti.mil.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.dart.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.dart.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.dawasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.dawasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.dcea.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.dcea.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ddca.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.ddca.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.dib.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-includes/version.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.dib.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "102.223.8.61",
+    "city": "Dar es Salaam",
+    "isp": "e-Government Authority",
+    "country": "TZ"
+  },
+  {
+    "host": "www.dmi.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.dmi.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.dsfa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.dsfa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.duwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.duwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.epza.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.eteta.ac.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.ewuraccc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "WordPress asset paths in body"
+    ],
+    "final_url": "https://www.ewuraccc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.fertilizer.co.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.feta.ac.tz",
+    "php_seen": true,
+    "version": "8.3.36",
+    "evidence": [
+      "header x-powered-by: PHP/8.3.36",
+      "version disclosed: 8.3.36"
+    ],
+    "final_url": "https://www.feta.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PATCHED",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.filmboard.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.filmboard.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.fiu.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.fiu.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.frf.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.gasco.co.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.gasco.co.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.glite.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.gst.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.gst.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.heslb.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ictc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.ictc.go.tz/",
+    "status": 200,
+    "server": "openresty",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "41.59.225.216",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania Telecommunications CO. LTD",
+    "country": "TZ"
+  },
+  {
+    "host": "www.idbwb.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.idbwb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ija.ac.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.iruwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.iruwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.isw.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.isw.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.jamii.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.jamii.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.jkci.or.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.jkci.or.tz/",
+    "status": 200,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.77.105",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.judiciary.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.judiciary.go.tz/",
+    "status": 200,
+    "server": "nginx",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.77.14",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.kariakoomarket.co.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.kariakoomarket.co.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.kashwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.kashwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.kazi.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.kec.or.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.kec.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.kilimanjaroairport.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.kilimanjaroairport.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.kilimo.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.kuwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.kuwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.lgti.ac.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://lgti.ac.tz/",
+    "status": 200,
+    "server": "nginx",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "41.59.229.13",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania Telecommunications CO. LTD",
+    "country": "TZ"
+  },
+  {
+    "host": "www.lvbwb.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.lvbwb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.maadili.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.maadili.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.makuwasa.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.maliasili.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.maliasili.go.tz/",
+    "status": 200,
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "41.59.90.210",
+    "city": "Dar es Salaam",
+    "isp": "TTCL",
+    "country": "TZ"
+  },
+  {
+    "host": "www.manawasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.manawasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.marineparks.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.marineparks.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mawasiliano.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.mawasiliano.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mbeyauwsa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.mbeyauwsa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.meteo.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.meteo.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.metfund.go.tz",
+    "php_seen": true,
+    "version": "8.2.35",
+    "evidence": [
+      "header x-powered-by: PHP/8.2.35",
+      "version disclosed: 8.2.35"
+    ],
+    "final_url": "https://www.metfund.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PATCHED",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.michezo.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.michezo.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mifugouvuvi.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.mifugouvuvi.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mit.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.mit.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mkulazi.co.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.mkulazi.co.tz/",
+    "status": 200,
+    "server": "nginx",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "41.59.103.182",
+    "city": "Dar es Salaam",
+    "isp": "TTCL",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mnma.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.mnma.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mnrt.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.modans.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.moe.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.moe.go.tz/sw",
+    "status": 200,
+    "server": "nginx",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.179.215",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.moha.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.moha.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.moi.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.moi.ac.tz/",
+    "status": 200,
+    "server": "Apache/2.4.67 (Debian)",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.179.198",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.moruwasa.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.moruwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mow.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.mow.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mri.ac.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.mri.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mtuwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.mtuwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.muwsa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.muwsa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mwekawildlife.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "WordPress asset paths in body"
+    ],
+    "final_url": "https://www.mwekawildlife.ac.tz/public/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.mwt.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.natcom.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.nationalsportscouncil.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.nbaa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nbaa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nbs.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nbs.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ncc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.ncc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ndctz.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.nemc.or.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nemc.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nfra.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nfra.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nhc.co.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.nhc.co.tz/",
+    "status": 200,
+    "server": "nginx/1.30.5",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.179.156",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nhif.or.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nhif.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nictanzania.co.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nicinsurance.co.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nimr.or.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://nimr.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "41.59.225.156",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania Telecommunications CO. LTD",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nirc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nirc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nit.ac.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.nit.ac.tz/",
+    "status": 200,
+    "server": "nginx",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "41.93.71.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania Education And Research Network",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nmt.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nmt.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nmtc.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nmtc.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nps.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.nssf.or.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.nwf.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.nwf.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.orpp.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.orpp.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.osg.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.osg.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.osha.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.osha.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.panganibasin.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.panganibasin.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.papu40anniversary.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.papu40anniversary.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.parliament.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.parliament.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.pbpa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.pbpa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.pppnode.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.ppra.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.ppra.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.179.225",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.psc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.psc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.psptb.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.psptb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.pura.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "WordPress asset paths in body"
+    ],
+    "final_url": "https://www.pura.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.roadsfund.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.roadsfund.go.tz/sw",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.rufijibasin.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.rufijibasin.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.rukwabasin.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.rukwabasin.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ruwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "PHPSESSID cookie"
+    ],
+    "final_url": "https://www.ruwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.sadctanzania.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 302)"
+    ],
+    "final_url": "https://www.sadctanzania.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.sheria.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.sheria.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.shuwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.shuwasa.go.tz/www/sw",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.stamico.co.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.stamico.co.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.suwasa.or.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "154.118.231.236",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tamisemi.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://tamisemi.go.tz/",
+    "status": 200,
+    "server": "nginx",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "102.219.172.39",
+    "city": "Dodoma",
+    "isp": "The Office of the Minister of State in the President's Office",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tangauwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tangauwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tanroads.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tanroads.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tantrade.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tantrade.go.tz/",
+    "status": 200,
+    "server": "Apache/2.4.41 (Ubuntu)",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.77.103",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tanzaniaparks.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.tanzaniaparks.go.tz/",
+    "status": 200,
+    "server": "nginx/1.30.2",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.179.154",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tari.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tari.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tarura.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 301)"
+    ],
+    "final_url": "https://www.tarura.go.tz/",
+    "status": 301,
+    "server": "nginx",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.77.39",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tasac.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tasac.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tasuba.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tasuba.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tba.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tba.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tbs.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tbs.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tcaa-ccc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tcaa-ccc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tcaa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tcaa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tcb.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tcb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tdb.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tdb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.temdo.or.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.temesa.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tfnc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "WordPress asset paths in body"
+    ],
+    "final_url": "https://www.tfnc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tfra.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tfra.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tfs.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tfs.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tgdc.co.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.tgdc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/adminer.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.tgdc.go.tz/",
+    "status": 200,
+    "server": null,
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.179.169",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tic.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "102.223.8.75",
+    "city": "Dar es Salaam",
+    "isp": "e-Government Authority",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tie.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tie.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tio.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.tio.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tirdo.or.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tirdo.or.tz/en/home",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tmb.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tmb.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tmda.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tmda.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tmx.co.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 404)"
+    ],
+    "final_url": "https://www.tmx.co.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "154.118.230.167",
+    "city": "Dodoma",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tnbc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tnbc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tnmc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.tnmc.go.tz/",
+    "status": 200,
+    "server": null,
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.179.209",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tobaccoboard.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tobaccoboard.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.torita.or.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.torita.or.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tosci.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tosci.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tpdf.mil.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "196.192.79.159",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tphpa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tphpa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tpsc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tpsc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.trita.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-login.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.trita.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tro.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tro.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tsc.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tsc.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ttsa.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": null,
+    "city": null,
+    "isp": null,
+    "country": "TZ"
+  },
+  {
+    "host": "www.tumemadini.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.tumemadini.go.tz/",
+    "status": 200,
+    "server": "nginx/1.26.3",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "102.223.8.107",
+    "city": "Dar es Salaam",
+    "isp": "e-Government Authority",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tuwasa.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tuwasa.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.tvla.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.tvla.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.ucsaf.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": null,
+    "status": null,
+    "server": null,
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.5",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.uongozi.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-includes/version.php present (HTTP 404)"
+    ],
+    "final_url": "https://www.uongozi.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "41.59.85.30",
+    "city": "Dar es Salaam",
+    "isp": "TTCL",
+    "country": "TZ"
+  },
+  {
+    "host": "www.uwezeshaji.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.uwezeshaji.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.veta.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/wp-includes/version.php present (HTTP 200)"
+    ],
+    "final_url": "https://www.veta.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "196.192.79.246",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.vpo.go.tz",
+    "php_seen": true,
+    "version": "8.4.27",
+    "evidence": [
+      "header x-powered-by: PHP/8.4.27",
+      "version disclosed: 8.4.27"
+    ],
+    "final_url": "https://www.vpo.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PATCHED",
+    "category": "gov",
+    "ip": "196.192.79.254",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.waterinstitute.ac.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.waterinstitute.ac.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.wcf.go.tz",
+    "php_seen": true,
+    "version": null,
+    "evidence": [
+      "/index.php served (PHP handler present)"
+    ],
+    "final_url": "https://www.wcf.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "PHP-UNKNOWN-VERSION",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  },
+  {
+    "host": "www.wma.go.tz",
+    "php_seen": false,
+    "version": null,
+    "evidence": [],
+    "final_url": "https://www.wma.go.tz/",
+    "status": 200,
+    "server": "Apache",
+    "verdict": "NOT-PHP",
+    "category": "gov",
+    "ip": "197.149.178.6",
+    "city": "Dar es Salaam",
+    "isp": "Tanzania e-Government Agency",
+    "country": "TZ"
+  }
+]

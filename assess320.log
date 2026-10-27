@@ -1,0 +1,42 @@
+[1mphp2shell_exploit.py[0m — CVE-2026-109618 / CVE-2026-109619 assessment
+Target: https://uonbi.ac.ke/ (POST: /user/login)
+
+[1m[96m[1/5] Runtime fingerprint and version classification[0m
+  Server      : Apache/2.4.6 () OpenSSL/1.0.2k-fips PHP/8.1.29
+  X-Powered-By: PHP/8.1.29
+  HTTP 200, 287703 bytes
+  Probable SAPI: Apache (likely prefork + mod_php)
+  [91m[CRIT][0m PHP 8.1.29 is end-of-life and has no official fix.
+
+[1m[96m[2/5] Pre-RINIT surface (session.upload_progress)[0m
+  POST /user/login: HTTP 200
+  No PHPSESSID Set-Cookie. Normal on the upload-progress path:
+  the module sets send_cookie=0 when a session id is already supplied.
+  The strong evidence for this path is the pre-RINIT OOM below.
+
+[1m[96m[3/5] OOM during multipart parsing (before RINIT)[0m
+  [91m[CRIT][0m HTTP 500: parser aborted the request (pre-RINIT OOM signature).
+
+[1m[96m[4/5] Worker survival after the bailout[0m
+  [92m[OK][0m 8/8 subsequent requests served: the process did not die on the OOM.
+  In mod_php/prefork the child survives the bailout and can retain global state.
+
+[1m[96m[5/5] Memory disclosure via Set-Cookie (stale PS(id))[0m
+  [93m[!][0m No disclosure observed: every cookie has a normal session-id format.
+
+[1m[96m[RESULT] Verdict[0m
+  Runtime        : Apache/2.4.6 () OpenSSL/1.0.2k-fips PHP/8.1.29 / PHP/8.1.29
+  Probable SAPI  : Apache (likely prefork + mod_php)
+  Classification : VULNERABLE_EOL
+  Pre-RINIT OOM  : yes (HTTP 500)
+  Worker alive   : yes
+  Disclosure     : no
+  RCE            : NOT CONFIRMED
+
+  [91m[CRIT][0m EXPOSURE CONFIRMED: affected version + pre-RINIT OOM + persistent worker.
+  [93m[!][0m RCE NOT CONFIRMED: no command was executed on the target.
+  This tool never simulates or claims RCE without execution evidence.
+  - The local signature is 'Allowed memory size ... exhausted ... in Unknown on line 0'; a bare HTTP 500 does not distinguish OOM from other fatals.
+  - On this build, RINIT reinitializes PS(id) after the pre-RINIT OOM, so the stale pointer is cleared before any consumer uses it.
+
+[91m[1mVERDICT: VULNERABLE TO DENIAL OF SERVICE / EXPOSURE, RCE not reproduced[0m

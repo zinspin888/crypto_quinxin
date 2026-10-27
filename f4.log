@@ -1,0 +1,24 @@
+  jlmes.nit.ac.tz/composer.json [200] composer.json leaked
+  jlmes.nit.ac.tz/error_log [200] error log leaked
+  sumajkt.go.tz/error_log [200] error log leaked
+  uwekezaji.iringa.go.tz/error_log [200] error log leaked
+  www.ddca.go.tz/composer.json [200] composer.json leaked
+  www.ddca.go.tz/composer.lock [200] composer.json leaked
+  www.ddca.go.tz/package.json [200] package.json leaked
+  www.mbeyauwsa.go.tz/error_log [200] error log leaked
+  www.ncaa.go.tz/error_log [200] error log leaked
+  www.ncaa.go.tz/wp-login.php [200] live login form
+  www.nhc.co.tz/web.config [200] web.config leaked
+  www.nimr.or.tz/wp-login.php [200] live login form
+  www.ppra.go.tz/error_log [200] error log leaked
+  www.ptf.or.tz/wp-login.php [200] live login form
+  www.sbt.go.tz/wp-login.php [200] live login form
+  www.tagla.go.tz/wp-login.php [200] live login form
+  www.tasuba.ac.tz/composer.json [200] composer.json leaked
+  www.tasuba.ac.tz/composer.lock [200] composer.json leaked
+  www.tasuba.ac.tz/error_log [200] error log leaked
+  www.tasuba.ac.tz/package.json [200] package.json leaked
+  www.veta.go.tz/web.config [200] web.config leaked
+  www.viwanda.go.tz/error_log [200] error log leaked
+
+22 findings across 187 hosts

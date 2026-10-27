@@ -1,0 +1,44 @@
+# Tanzania government (.go.tz) targets - CVE-2026-109618 / CVE-2026-109619 fingerprinting
+# format: domain,category
+# --- portal / national ---
+gov.go.tz,portal
+tanzania.go.tz,portal
+# --- ministries ---
+mof.go.tz,ministry
+moe.go.tz,ministry
+tamisemi.go.tz,ministry
+afya.go.tz,ministry
+kilimo.go.tz,ministry
+maji.go.tz,ministry
+ardhi.go.tz,ministry
+nishati.go.tz,ministry
+mifugo.go.tz,ministry
+# --- revenue / regulatory / justice ---
+tra.go.tz,revenue
+brela.go.tz,registry
+rita.go.tz,registry
+nida.go.tz,identity
+immigration.go.tz,immigration
+pccb.go.tz,anti-corruption
+nbaa.go.tz,regulator
+tbs.go.tz,standards
+tfs.go.tz,forestry
+latra.go.tz,regulator
+trc.co.tz,regulator
+crdbbank.co.tz,bank
+# --- education / examinations ---
+necta.go.tz,exams
+nacte.go.tz,education
+heslb.go.tz,loans
+veta.go.tz,education
+utumishi.go.tz,civil-service
+ajira.go.tz,jobs
+muse.go.tz,museum
+# --- utilities / infrastructure ---
+tanesco.co.tz,utility
+egaz.go.tz,energy
+# --- other agencies ---
+nest.go.tz,agency
+tpf.go.tz,police
+nit.go.tz,agency
+eganet.go.tz,agency

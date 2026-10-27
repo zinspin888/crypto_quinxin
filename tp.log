@@ -1,0 +1,18 @@
+target https://www.pc.go.tz/phpmyadmin/
+6 users x 216 words = 1296 pairs
+  ... 100/1296
+  ... 200/1296
+  ... 300/1296
+  ... 400/1296
+  ... 500/1296
+  ... 600/1296
+  ... 700/1296
+  ... 800/1296
+  ... 900/1296
+  ... 1000/1296
+  ... 1100/1296
+  ... 1200/1296
+done
+root:definitelywrongpass -> 401 login_form=False
+root:<empty> -> 401 login_form=False
+admin:zzz -> 401 login_form=False

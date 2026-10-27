@@ -1,0 +1,134 @@
+[
+  {
+    "host": "uwekezaji.iringa.go.tz",
+    "path": "/error_log",
+    "status": 200,
+    "detail": "error log leaked"
+  },
+  {
+    "host": "sumajkt.go.tz",
+    "path": "/error_log",
+    "status": 200,
+    "detail": "error log leaked"
+  },
+  {
+    "host": "www.ncaa.go.tz",
+    "path": "/wp-login.php",
+    "status": 200,
+    "detail": "live login form"
+  },
+  {
+    "host": "www.ncaa.go.tz",
+    "path": "/error_log",
+    "status": 200,
+    "detail": "error log leaked"
+  },
+  {
+    "host": "www.sbt.go.tz",
+    "path": "/wp-login.php",
+    "status": 200,
+    "detail": "live login form"
+  },
+  {
+    "host": "www.ptf.or.tz",
+    "path": "/wp-login.php",
+    "status": 200,
+    "detail": "live login form"
+  },
+  {
+    "host": "www.tagla.go.tz",
+    "path": "/wp-login.php",
+    "status": 200,
+    "detail": "live login form"
+  },
+  {
+    "host": "www.viwanda.go.tz",
+    "path": "/error_log",
+    "status": 200,
+    "detail": "error log leaked"
+  },
+  {
+    "host": "jlmes.nit.ac.tz",
+    "path": "/composer.json",
+    "status": 200,
+    "detail": "composer.json leaked"
+  },
+  {
+    "host": "jlmes.nit.ac.tz",
+    "path": "/error_log",
+    "status": 200,
+    "detail": "error log leaked"
+  },
+  {
+    "host": "www.ddca.go.tz",
+    "path": "/composer.json",
+    "status": 200,
+    "detail": "composer.json leaked"
+  },
+  {
+    "host": "www.ddca.go.tz",
+    "path": "/composer.lock",
+    "status": 200,
+    "detail": "composer.json leaked"
+  },
+  {
+    "host": "www.ddca.go.tz",
+    "path": "/package.json",
+    "status": 200,
+    "detail": "package.json leaked"
+  },
+  {
+    "host": "www.mbeyauwsa.go.tz",
+    "path": "/error_log",
+    "status": 200,
+    "detail": "error log leaked"
+  },
+  {
+    "host": "www.nhc.co.tz",
+    "path": "/web.config",
+    "status": 200,
+    "detail": "web.config leaked"
+  },
+  {
+    "host": "www.ppra.go.tz",
+    "path": "/error_log",
+    "status": 200,
+    "detail": "error log leaked"
+  },
+  {
+    "host": "www.nimr.or.tz",
+    "path": "/wp-login.php",
+    "status": 200,
+    "detail": "live login form"
+  },
+  {
+    "host": "www.tasuba.ac.tz",
+    "path": "/composer.json",
+    "status": 200,
+    "detail": "composer.json leaked"
+  },
+  {
+    "host": "www.tasuba.ac.tz",
+    "path": "/composer.lock",
+    "status": 200,
+    "detail": "composer.json leaked"
+  },
+  {
+    "host": "www.tasuba.ac.tz",
+    "path": "/package.json",
+    "status": 200,
+    "detail": "package.json leaked"
+  },
+  {
+    "host": "www.tasuba.ac.tz",
+    "path": "/error_log",
+    "status": 200,
+    "detail": "error log leaked"
+  },
+  {
+    "host": "www.veta.go.tz",
+    "path": "/web.config",
+    "status": 200,
+    "detail": "web.config leaked"
+  }
+]

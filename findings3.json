@@ -1,0 +1,8 @@
+[
+  {
+    "host": "www.pasiansiwildlife.ac.tz",
+    "path": "/phpinfo.php",
+    "status": 200,
+    "detail": "phpinfo fully exposed"
+  }
+]

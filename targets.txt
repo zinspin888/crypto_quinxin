@@ -1,0 +1,93 @@
+# Nairobi / Kenya-hosted web targets for CVE-2026-109618 + CVE-2026-109619 fingerprinting
+# format: domain,category
+# --- news / media (Nairobi-based) ---
+standardmedia.co.ke,news
+nation.co.ke,news
+the-star.co.ke,news
+tuko.co.ke,news
+kenyans.co.ke,news
+capitalfm.co.ke,news
+kbc.co.ke,news
+radio.or.ke,news
+theeastafrican.co.ke,news
+# --- government / public sector ---
+ecitizen.go.ke,gov
+kra.go.ke,gov
+ntsa.go.ke,gov
+helb.co.ke,gov
+iebc.or.ke,gov
+nairobi.go.ke,county
+treasury.go.ke,gov
+publicservice.go.ke,gov
+sha.go.ke,gov
+court.go.ke,gov
+kemis.go.ke,gov
+knec.ac.ke,gov
+tsc.go.ke,gov
+# --- universities / education ---
+uonbi.ac.ke,university
+ku.ac.ke,university
+jkuat.ac.ke,university
+strathmore.edu,university
+usiu.ac.ke,university
+daystar.ac.ke,university
+pu.ac.ke,university
+mut.ac.ke,university
+uonbi.ac.ke,university
+# --- banking / finance ---
+co-opbank.co.ke,bank
+absabank.co.ke,bank
+lendplus.ke,fintech
+winpesa.ke,fintech
+maliwin.co.ke,fintech
+simplepaytech.co.ke,fintech
+# --- e-commerce / classifieds ---
+jumia.co.ke,ecommerce
+kilimall.co.ke,ecommerce
+jiji.co.ke,ecommerce
+biashara.co.ke,ecommerce
+# --- telco / isp / hosting ---
+safaricom.co.ke,telco
+safaricombusiness.co.ke,telco
+kenet.or.ke,isp
+kenic.or.ke,isp
+afriregister.co.ke,isp
+shujaahost.co.ke,isp
+onfonmobile.co.ke,telco
+# --- jobs / listing ---
+brightermonday.co.ke,jobs
+myjobmag.co.ke,jobs
+# --- betting ---
+betpawa.co.ke,betting
+mozzartbet.co.ke,betting
+betfalme.co.ke,betting
+# --- corporate / services / other ---
+kplc.co.ke,corporate
+hef.co.ke,corporate
+msha.ke,corporate
+kenyawebexperts.co.ke,corporate
+inspiretech.co.ke,corporate
+spectrumtech.co.ke,corporate
+newarkfrontierstech.co.ke,corporate
+iro.ke,corporate
+ksa.go.ke,gov
+# --- second wave: more Nairobi orgs (health, retail, justice, water, insurance, education) ---
+knh.or.ke,health
+nairobiwater.co.ke,utility
+naivas.co.ke,retail
+quickmart.co.ke,retail
+carrefour.ke,retail
+jubileeinsurance.co.ke,insurance
+britam.com,insurance
+buyrentkenya.com,realestate
+konza.go.ke,gov
+mku.ac.ke,university
+kca.ac.ke,university
+tukenya.ac.ke,university
+kmtc.ac.ke,university
+kasneb.or.ke,gov
+pssf.go.ke,gov
+afyayangu.go.ke,gov
+ndma.go.ke,gov
+kenya.go.ke,gov
+psckjobs.go.ke,gov

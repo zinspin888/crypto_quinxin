@@ -1,0 +1,81 @@
+host,category,verdict,php_version,status,server,ip,city,isp,evidence
+kenet.or.ke,isp,VULNERABLE,7.3.33,200,Protected by COMODO WAF mod_fcgid/2.3.9 PHP/7.3.33,41.204.160.5,Nairobi,KENET,header server: Protected by COMODO WAF mod_fcgid/2.3.9 PHP/7.3.33; version disclosed: 7.3.33
+uonbi.ac.ke,university,VULNERABLE,8.1.29,200,Apache/2.4.6 () OpenSSL/1.0.2k-fips PHP/8.1.29,41.89.92.134,Nakuru,KENET,header server: Apache/2.4.6 () OpenSSL/1.0.2k-fips PHP/8.1.29; header x-powered-by: PHP/8.1.29; version disclosed: 8.1.29
+absabank.co.ke,bank,NOT-PHP,,200,Apache,178.79.178.218,London,Linode,
+afriregister.co.ke,isp,PHP-UNKNOWN-VERSION,,200,Apache,149.102.157.47,Portsmouth,Cogent Communications,PHPSESSID cookie
+afyayangu.go.ke,gov,NOT-PHP,,200,cloudflare,172.66.148.120,Toronto,"Cloudflare, Inc.",
+betfalme.co.ke,betting,NOT-PHP,,200,cloudflare,104.21.85.210,Toronto,"Cloudflare, Inc.",
+betpawa.co.ke,betting,PHP-UNKNOWN-VERSION,,200,cloudflare,31.185.108.236,Frankfurt am Main,"Cloudflare, Inc.",/wp-login.php present (HTTP 200)
+biashara.co.ke,ecommerce,NOT-PHP,,403,cloudflare,104.21.69.21,Toronto,"Cloudflare, Inc.",
+brightermonday.co.ke,jobs,PHP-UNKNOWN-VERSION,,200,cloudflare,104.16.224.247,Toronto,"Cloudflare, Inc.",/index.php served (PHP handler present)
+britam.com,insurance,PHP-UNKNOWN-VERSION,,200,Apache,34.16.125.234,Council Bluffs,Google LLC,/index.php served (PHP handler present)
+buyrentkenya.com,realestate,NOT-PHP,,403,cloudflare,172.66.162.69,Toronto,"Cloudflare, Inc.",
+capitalfm.co.ke,news,PHP-UNKNOWN-VERSION,,200,cloudflare,104.219.251.175,Phoenix,"Namecheap, Inc.",/wp-login.php present (HTTP 200)
+carrefour.ke,retail,PHP-UNKNOWN-VERSION,,200,AkamaiGHost,23.215.106.209,Mombasa,Akamai International B.V.,/wp-login.php present (HTTP 200)
+co-opbank.co.ke,bank,PHP-UNKNOWN-VERSION,,200,,147.182.139.164,North Bergen,"DigitalOcean, LLC",/wp-login.php present (HTTP 200)
+court.go.ke,gov,NOT-PHP,,,,,,,
+daystar.ac.ke,university,PHP-UNKNOWN-VERSION,,200,Apache,197.136.17.62,Nairobi,Kenya Education Network,/index.php served (PHP handler present)
+ecitizen.go.ke,gov,NOT-PHP,,200,cloudflare,197.248.4.207,Nairobi,Safaricom Limited,
+hef.co.ke,corporate,PHP-UNKNOWN-VERSION,,200,nginx,41.89.1.237,Nairobi,KENET,PHPSESSID cookie
+helb.co.ke,gov,PHP-UNKNOWN-VERSION,,200,Apache,197.136.52.32,Nairobi,KENET,/wp-login.php present (HTTP 200)
+iebc.or.ke,gov,PHP-UNKNOWN-VERSION,,200,nginx,197.232.167.26,Nairobi,FAIBA,/adminer.php present (HTTP 200)
+inspiretech.co.ke,corporate,NOT-PHP,,,,174.138.1.113,Amsterdam,"DigitalOcean, LLC",
+iro.ke,corporate,PHP-UNKNOWN-VERSION,,200,cloudflare,172.66.161.64,Toronto,"Cloudflare, Inc.",/wp-login.php present (HTTP 200)
+jiji.co.ke,ecommerce,NOT-PHP,,200,cloudflare,104.18.4.162,Toronto,"Cloudflare, Inc.",
+jkuat.ac.ke,university,PHP-UNKNOWN-VERSION,,200,nginx/1.18.0 (Ubuntu),197.136.12.5,Nairobi,KENET,/wp-login.php present (HTTP 200)
+jubileeinsurance.co.ke,insurance,NOT-PHP,,,,,,,
+jumia.co.ke,ecommerce,NOT-PHP,,403,cloudflare,104.16.109.55,Toronto,"Cloudflare, Inc.",
+kasneb.or.ke,gov,PHP-UNKNOWN-VERSION,,200,Apache,41.80.37.46,Nairobi,Safaricom Limited,/index.php served (PHP handler present)
+kbc.co.ke,news,NOT-PHP,,,,68.183.13.249,Amsterdam,"DigitalOcean, LLC",
+kca.ac.ke,university,PHP-UNKNOWN-VERSION,,200,Apache,41.89.49.15,Nairobi,KENET,/wp-login.php present (HTTP 404)
+kemis.go.ke,gov,PHP-UNKNOWN-VERSION,,200,cloudflare,104.26.7.141,Toronto,"Cloudflare, Inc.",/wp-login.php present (HTTP 200)
+kenic.or.ke,isp,NOT-PHP,,403,cloudflare,104.20.47.194,Toronto,"Cloudflare, Inc.",
+kenya.go.ke,gov,NOT-PHP,,,,,,,
+kenyans.co.ke,news,PHP-UNKNOWN-VERSION,,200,cloudflare,172.67.68.2,Toronto,"Cloudflare, Inc.",/index.php served (PHP handler present)
+kenyawebexperts.co.ke,corporate,PHP-UNKNOWN-VERSION,,200,cloudflare,192.250.234.151,London,WHG Hosting Services Ltd,/wp-login.php present (HTTP 200)
+kilimall.co.ke,ecommerce,PHP-UNKNOWN-VERSION,,200,openresty,110.238.79.106,Johannesburg,Huawei International Pte. LTD,/wp-login.php present (HTTP 200)
+kmtc.ac.ke,university,NOT-PHP,,,,41.204.160.15,Nairobi,KENET,
+knec.ac.ke,gov,PHP-UNKNOWN-VERSION,,200,nginx/1.26.1,41.139.222.198,Nairobi,Safaricom Limited,WordPress asset paths in body
+knh.or.ke,health,PHP-UNKNOWN-VERSION,,200,LiteSpeed,198.38.92.102,London,WHG Hosting Services Ltd,/wp-login.php present (HTTP 200)
+konza.go.ke,gov,PHP-UNKNOWN-VERSION,,200,nginx,102.220.22.139,Konza,KONZA,/wp-login.php present (HTTP 200)
+kplc.co.ke,corporate,PHP-UNKNOWN-VERSION,,200,Apache,41.80.37.27,Nairobi,Safaricom Limited,/index.php served (PHP handler present)
+kra.go.ke,gov,PHP-UNKNOWN-VERSION,,200,,196.61.52.39,Nairobi,Kenya Revenue Authority,/index.php served (PHP handler present)
+ksa.go.ke,gov,NOT-PHP,,200,nginx,41.89.14.3,Nairobi,KENET,
+ku.ac.ke,university,NOT-PHP,,200,Apache,41.89.10.116,Nairobi,KENET,
+lendplus.ke,fintech,PHP-UNKNOWN-VERSION,,200,cloudflare,104.18.10.78,Toronto,"Cloudflare, Inc.",/wp-login.php present (HTTP 404)
+maliwin.co.ke,fintech,PHP-UNKNOWN-VERSION,,200,cloudflare,104.18.13.21,Toronto,"Cloudflare, Inc.",/wp-login.php present (HTTP 200)
+mku.ac.ke,university,PHP-UNKNOWN-VERSION,,200,Sucuri/Cloudproxy,192.124.249.120,Menifee,Sucuri,/wp-login.php present (HTTP 404)
+mozzartbet.co.ke,betting,PHP-UNKNOWN-VERSION,,200,cloudflare,104.18.11.240,Toronto,"Cloudflare, Inc.",/wp-login.php present (HTTP 200)
+msha.ke,corporate,PHP-UNKNOWN-VERSION,,200,cloudflare,172.66.132.87,Toronto,"Cloudflare, Inc.",/index.php served (PHP handler present)
+mut.ac.ke,university,NOT-PHP,,,,41.204.160.15,Nairobi,KENET,
+myjobmag.co.ke,jobs,PHP-UNKNOWN-VERSION,,200,cloudflare,104.26.4.148,Toronto,"Cloudflare, Inc.",PHPSESSID cookie
+nairobi.go.ke,county,PHP-UNKNOWN-VERSION,,200,nginx/1.18.0 (Ubuntu),102.210.148.164,Johannesburg,Konza,/wp-login.php present (HTTP 200)
+nairobiwater.co.ke,utility,PHP-UNKNOWN-VERSION,,200,nginx,165.90.14.133,Nairobi,Internet Solutions,/wp-login.php present (HTTP 200)
+naivas.co.ke,retail,PATCHED,8.2.35,200,Apache,106.0.62.75,Phoenix,"A2 Hosting, Inc.",header x-powered-by: PHP/8.2.35; version disclosed: 8.2.35
+nation.co.ke,news,NOT-PHP,,,,18.201.6.115,Dublin,Amazon Technologies Inc.,
+ndma.go.ke,gov,PATCHED,8.3.36,200,LiteSpeed,102.218.215.29,Cape Town,Hostafrica,header x-powered-by: PHP/8.3.36; version disclosed: 8.3.36
+newarkfrontierstech.co.ke,corporate,NOT-PHP,,,,143.198.157.170,Santa Clara,"DigitalOcean, LLC",
+ntsa.go.ke,gov,PHP-UNKNOWN-VERSION,,200,nginx/1.24.0 (Ubuntu),197.248.156.129,Nairobi,Safaricom Limited,/index.php served (PHP handler present)
+onfonmobile.co.ke,telco,NOT-PHP,,403,,104.161.23.12,Phoenix,Input Output Flood LLC,
+psckjobs.go.ke,gov,NOT-PHP,,,,212.49.64.244,Nairobi,TKL-JAMBONET,
+pssf.go.ke,gov,NOT-PHP,,,,,,,
+pu.ac.ke,university,PHP-UNKNOWN-VERSION,,200,nginx,41.89.129.38,Bungoma,KENET,/index.php served (PHP handler present)
+publicservice.go.ke,gov,PATCHED,8.2.35,200,Apache/2.4.68 (Unix) OpenSSL/1.1.1k,168.231.87.76,Paris,HOSTINGER FR,header x-powered-by: PHP/8.2.35; version disclosed: 8.2.35
+quickmart.co.ke,retail,PHP-UNKNOWN-VERSION,,200,cloudflare,104.16.187.230,Toronto,"Cloudflare, Inc.",/index.php served (PHP handler present)
+radio.or.ke,news,NOT-PHP,,200,cloudflare,172.67.209.48,Toronto,"Cloudflare, Inc.",
+safaricom.co.ke,telco,PHP-UNKNOWN-VERSION,,200,nginx,45.223.28.17,San Mateo,Incapsula Inc,/index.php served (PHP handler present)
+safaricombusiness.co.ke,telco,NOT-PHP,,200,LiteSpeed,41.80.37.15,Nairobi,Safaricom Limited,
+sha.go.ke,gov,PHP-UNKNOWN-VERSION,,404,cloudflare,41.80.37.31,Nairobi,Safaricom Limited,/wp-login.php present (HTTP 200)
+shujaahost.co.ke,isp,PHP-UNKNOWN-VERSION,,200,LiteSpeed,51.210.72.59,Roubaix,OVH SAS,/wp-login.php present (HTTP 200)
+simplepaytech.co.ke,fintech,NOT-PHP,,,,147.182.138.159,North Bergen,"DigitalOcean, LLC",
+spectrumtech.co.ke,corporate,NOT-PHP,,,,167.99.10.7,North Bergen,"DigitalOcean, LLC",
+standardmedia.co.ke,news,PHP-UNKNOWN-VERSION,,200,cloudflare,172.67.203.51,Toronto,"Cloudflare, Inc.",/index.php served (PHP handler present)
+strathmore.edu,university,PHP-UNKNOWN-VERSION,,200,nginx,34.243.183.166,Dublin,Amazon Technologies Inc.,/wp-login.php present (HTTP 404)
+the-star.co.ke,news,NOT-PHP,,200,cloudflare,172.67.71.63,Toronto,"Cloudflare, Inc.",
+theeastafrican.co.ke,news,NOT-PHP,,403,cloudflare,104.18.23.241,Toronto,"Cloudflare, Inc.",
+treasury.go.ke,gov,PHP-UNKNOWN-VERSION,,200,nginx,102.210.148.73,Johannesburg,Konza,/index.php served (PHP handler present)
+tsc.go.ke,gov,NOT-PHP,,,,197.248.46.149,Nairobi,Safaricom Limited,
+tukenya.ac.ke,university,PHP-UNKNOWN-VERSION,,200,Apache/2.4.64 (Ubuntu),41.89.56.10,Nairobi,KENET,/index.php served (PHP handler present)
+tuko.co.ke,news,PHP-UNKNOWN-VERSION,,200,nginx,3.175.179.66,Nairobi,"Amazon.com, Inc.",/index.php served (PHP handler present)
+usiu.ac.ke,university,NOT-PHP,,,,197.136.12.70,Nairobi,KENET,
+winpesa.ke,fintech,NOT-PHP,,200,cloudflare,104.21.7.191,Toronto,"Cloudflare, Inc.",

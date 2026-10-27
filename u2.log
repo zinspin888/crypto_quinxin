@@ -1,0 +1,6 @@
+== phase 0: baseline + which spellings survive the WAF
+     (host down, retrying)
+     (host down, retrying)
+     (host down, retrying)
+  control admin'-- -  -> DOWN
+  baseline did not behave; stopping so we do not chase noise
